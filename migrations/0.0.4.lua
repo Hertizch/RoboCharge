@@ -1,0 +1,1 @@
+for _, force in pairs(game.forces) do  force.reset_recipes()  force.reset_technologies()  if force.technologies["construction-robotics"].researched then    force.recipes["Robot-Charge-Station"].enabled = true  end  if force.technologies["logistic-robotics"].researched then    force.recipes["Robot-Charge-Station"].enabled = true  endend
