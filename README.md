@@ -10,6 +10,7 @@ Mod that adds a new small tower that can recharge robots, though they can't dock
 - Download zip file from release section and place in your mods folder.
 
 # Changelog
+<<<<<<< HEAD
 0.0.7:
 - Added: Sound effects.
 - Changed: max_health from 200 to 300.
@@ -19,5 +20,7 @@ Mod that adds a new small tower that can recharge robots, though they can't dock
 - Changed: energy_usage to 50kW (To match normal roboport).
 - Changed: charging_energy to 1000kW (To match normal roboport).
 
+=======
+>>>>>>> origin/master
 0.0.6:
 - Initial release.
